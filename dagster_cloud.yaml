@@ -1,0 +1,4 @@
+locations:
+  - location_name: Energy
+    code_source:
+      package_name: Energy
